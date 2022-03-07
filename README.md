@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Shopping Cart Sample Project
+This Project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Packages used:
+
+- [ReactJs](https://reactjs.org/)
+- [Tailwind Css](https://tailwindcss.com/)
 
 ## Available Scripts
 
